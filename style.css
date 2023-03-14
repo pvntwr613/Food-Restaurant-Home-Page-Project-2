@@ -31,7 +31,7 @@ body {
 }
 
 .navbar {
-  margin-top: -25px;
+  margin-top: -70px;
   display: flex;
   align-items: center;
   justify-content:space-between;
@@ -43,7 +43,7 @@ body {
   flex-direction: row;
   align-items: center;
   margin-left: 300px;
-  gap: 60px;
+  gap: 50px;
   
 }
 
@@ -53,7 +53,8 @@ body {
   font-size: 25px;
   color: #FFC233 ;
   cursor: pointer;
-  width: 120px;
+  width: 150px;
+
 }
 
 .button-small{
@@ -61,7 +62,6 @@ body {
   box-sizing: border-box;
   border: #FF505F;
   font-weight: 500;
-  margin-left: 500px;
   cursor: pointer;
   font-size: 20px;
   background-color:#FF505F ;
@@ -87,9 +87,9 @@ body {
 }
 
 .hero-heading{
-  margin-left: 30px;
-  margin-top: -110px;
-  font-size: 125px;
+  margin-left: -65px;
+  margin-top: -160px;
+  font-size: 108px;
   color: #FFC233;
   padding: 135px;
   text-align: center;
@@ -113,7 +113,7 @@ body {
 
 .bottom{
   position:absolute;
-  bottom: 6%;
-  margin-left: 1500px;
+  bottom: 1%;
+  margin-left: 1250px;
  
 }
